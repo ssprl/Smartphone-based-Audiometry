@@ -14,9 +14,9 @@ that if you have high degree of hearing loss than please consult professional Au
 A User's Guide is provided describing the implementation in Xode. 
 
 ## Requirements 
-iOS v 10+
-Apple Earphones for listening
-A Quite room for testing and 10 minutes
+iOS v 10+, 
+Apple Earphones for listening, 
+A Quite room for testing and 5 minutes of patience!
 
 
 ## License and Citation
