@@ -16,7 +16,7 @@ A User's Guide is provided describing the implementation in Xode.
 ## Requirements 
 iOS v 10+, 
 Apple Earphones for listening, 
-A Quite room for testing and 5 minutes of patience!
+A Quite room for testing and, 5 minutes of patience!
 
 
 ## License and Citation
