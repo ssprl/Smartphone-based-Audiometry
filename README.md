@@ -21,7 +21,7 @@ A Quite room for testing and, 5 minutes of patience!
 
 ## License and Citation
 
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 ## Disclaimer
 
